@@ -1,3 +1,3 @@
 # Medcheck
 
-The project MedCheck, a web-based doctor appointment and scheduling system, is currently approximately 50% complete. The Patient Module is fully developed and functional, including account registration, login, and appointment booking features. The Authentication Module is also successfully implemented and supports all user access to the system.
+MedCheck is a web-based doctor appointment and scheduling system designed to streamline the process of booking medical consultations. It features a fully functional Patient Module with account registration, login, and appointment booking, along with an implemented Authentication Module that ensures secure user access.
